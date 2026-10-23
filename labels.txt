@@ -1,0 +1,6 @@
+0 healthy tomato
+1 tomato early blight
+2 Class 3
+3 healthy lime
+4 citrus canker
+5 lime citrus greening
